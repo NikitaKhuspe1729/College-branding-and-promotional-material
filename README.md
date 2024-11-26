@@ -4,8 +4,9 @@ Designing newsletter and T&P poster for Trinity Academy of Engineering using FIG
 # Training and Placement poster 2023-24 (Using FIGMA)
 ![TPO_poster 2023-24](https://github.com/user-attachments/assets/d81e5ed8-80d1-4a00-9904-a29dc25de211)
 
-# Accenture poster for campus placement drive
+# Poster for campus placement drive
 ![accenture poster final](https://github.com/user-attachments/assets/d5df1bf9-ccef-4607-b54c-1235699694f3)
+![upcoming companies poster](https://github.com/user-attachments/assets/be1c3fa1-7e9c-4967-9979-8887e9fcc4dc)
 
 
 # Campus newsletter December 2023 (Using FIGMA)
