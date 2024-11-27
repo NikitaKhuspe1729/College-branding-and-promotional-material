@@ -20,3 +20,9 @@ Designing newsletter and T&P poster for Trinity Academy of Engineering using FIG
 ![2](https://github.com/user-attachments/assets/e3ed652e-2390-4e16-ac50-d7f146cc0e49)
 ![3](https://github.com/user-attachments/assets/34b8fd23-6249-4e13-b5ef-062800fc074e)
 ![4](https://github.com/user-attachments/assets/1d9885c5-1933-4aca-bc7b-a7cca895d7fc)
+
+# Newsletter for August 2024(Canva)
+![August newsletter 2024](https://github.com/user-attachments/assets/baf9dc58-1966-4be4-9b17-055add2ffa99)
+![August newsletter 2024 (1)](https://github.com/user-attachments/assets/7ca75197-d648-4187-a35b-3faa2575f916)
+![August newsletter 2024 (2)](https://github.com/user-attachments/assets/2e491ef1-4784-490b-9b74-7e4cdb4ee34c)
+![August newsletter 2024 (3)](https://github.com/user-attachments/assets/b9de763a-0014-40f4-bfd0-084993f21e36)
